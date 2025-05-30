@@ -122,7 +122,7 @@ TF-IDF (Term Frequency–Inverse Document Frequency) digunakan untuk mengubah da
 
 Setelah teks diubah menjadi vektor, dilakukan perhitungan kemiripan antar film menggunakan **Euclidean Distance**. Metode ini mengukur jarak antara dua vektor dalam ruang multidimensi. Semakin kecil nilai jaraknya, maka semakin mirip isi/konten kedua film tersebut.
 
-### 5.3 Fungsi Rekomendasi
+# 6. Evaluasi Fungsi Rekomendasi
 
 Dibuat sebuah fungsi `recommend_same_genre_euclidean()` yang dapat memberikan rekomendasi film-film yang kontennya paling mirip dengan film input berdasarkan judulnya.
 
