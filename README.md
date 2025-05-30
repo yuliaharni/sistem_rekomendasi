@@ -32,7 +32,7 @@ Untuk mencapai tujuan tersebut, pendekatan yang digunakan meliputi:
 
 ## 3. Data Understanding
 
-Dataset yang digunakan dalam proyek ini berisi informasi mengenai **41.399 film** dengan total **19 fitur**. Dataset ini diambil dari file `filmtv_movies.csv` dan memuat berbagai informasi penting mengenai film, mulai dari detail umum hingga skor emosional.
+Dataset yang digunakan dalam proyek ini berisi informasi mengenai **41.399 film** dengan total **19 fitur**. Dataset ini diambil dari file `filmtv_movies.csv` sumber: https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset dan memuat berbagai informasi penting mengenai film, mulai dari detail umum hingga skor emosional.
 
 ### Informasi Dataset
 
